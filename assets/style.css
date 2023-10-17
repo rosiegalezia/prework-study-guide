@@ -38,7 +38,11 @@ p {
   .card {
     width: 70%;
     margin: 50px auto;
-    padding: 2px;
+    padding: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    line-height: 1.5;
+    font-family: Arial;
     border: 5px solid #d7f3f3;
     box-shadow: 5px 10px #C2D8D8;
   }
